@@ -12,6 +12,7 @@
 - [agent-evolver](https://clawskills.sh/skills/lilei0311-agent-evolver) - AI Agent self-evolution engine that enables agents to learn from experience, detect problems, extract insights.
 - [agent-reflect](https://clawskills.sh/skills/stevengonsalvez-agent-reflect) - Self-improvement through conversation analysis.
 - [ai-persona-os](https://clawskills.sh/skills/jeffjhunter-ai-persona-os) - The complete operating system for OpenClaw agents.
+- [ai-shifu-course-creator](https://clawhub.ai/heshaofu2/ai-shifu-course-creator) - Build interactive AI-Shifu courses.
 - [anxiety-relief](https://clawskills.sh/skills/jhillin8-anxiety-relief) - Manage anxiety with grounding exercises, breathing techniques.
 - [apikiss](https://clawskills.sh/skills/theill-apikiss) - Access weather, IP geolocation, SMS, crypto prices, Danish CVR, Whois, phone lookup, UUID, stock data.
 - [beaverhabits](https://clawskills.sh/skills/daya0576-beaverhabits) - Track and manage your habits using the Beaver Habit Tracker API.
@@ -52,4 +53,3 @@
 - [xeonen-arena](https://clawskills.sh/skills/zedit42-xeonen-arena) - Adversarial self-improvement for AI agents.
 - [zeitgaist-dialect](https://clawskills.sh/skills/newsoulontheblock-zeitgaist-dialect) - Learn, encode, and decode the ZeitGaist Whisper Protocol (Caesar +2 cipher) and use it as a shibboleth language.
 - [zenplus-health](https://clawskills.sh/skills/ollieparsley-zenplus-health) - Workplace wellness for stress, anxiety, and burnout - mindfulness exercises, breathing techniques, mood check-ins.
-- [ai-shifu-course-creator](https://clawhub.ai/heshaofu2/ai-shifu-course-creator) - Build interactive AI-Shifu courses.

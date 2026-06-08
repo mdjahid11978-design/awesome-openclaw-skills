@@ -832,6 +832,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agent-evolver](https://clawskills.sh/skills/lilei0311-agent-evolver) - AI Agent self-evolution engine that enables agents to learn from experience, detect problems, extract insights.
 - [agent-reflect](https://clawskills.sh/skills/stevengonsalvez-agent-reflect) - Self-improvement through conversation analysis.
 - [ai-persona-os](https://clawskills.sh/skills/jeffjhunter-ai-persona-os) - The complete operating system for OpenClaw agents.
+- [ai-shifu-course-creator](https://clawhub.ai/heshaofu2/ai-shifu-course-creator) - Build interactive AI-Shifu courses.
 - [anxiety-relief](https://clawskills.sh/skills/jhillin8-anxiety-relief) - Manage anxiety with grounding exercises, breathing techniques.
 - [apikiss](https://clawskills.sh/skills/theill-apikiss) - Access weather, IP geolocation, SMS, crypto prices, Danish CVR, Whois, phone lookup, UUID, stock data.
 - [beaverhabits](https://clawskills.sh/skills/daya0576-beaverhabits) - Track and manage your habits using the Beaver Habit Tracker API.
@@ -851,7 +852,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [ezbookkeeping](https://clawskills.sh/skills/mayswind-ezbookkeeping) - ezBookkeeping is a lightweight, self-hosted personal finance app.
 - [fix-life-in-1-day](https://clawskills.sh/skills/evgyur-fix-life-in-1-day) - Fix your entire life in 1 day.
 - [founder-coach](https://clawskills.sh/skills/goforu-founder-coach) - AI-powered startup mindset coach that helps founders upgrade.
-- [ai-shifu-course-creator](https://clawhub.ai/heshaofu2/ai-shifu-course-creator) - Build interactive AI-Shifu courses.
 
 > **[View all 52 skills in Personal Development →](categories/personal-development.md)**
 </details>
